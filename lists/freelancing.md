@@ -37,6 +37,7 @@
 
 ## Tools and Resources
 
+- [Bonsai](https://www.hellobonsai.com/): All-in-one business tool for freelancers: contracts, proposals, invoices, accounting, and more.
 - [Templates.net - Get all kinds of templates for freelance agreements](https://www.template.net/)
 - [/r/FreelanceProgramming - A must-visit for beginners in Freelance Programming](https://www.reddit.com/r/FreelanceProgramming)
 - [Quickbooks - Accounting for small firms](http://quickbooks.intuit.com/)
